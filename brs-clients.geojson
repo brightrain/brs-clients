@@ -88,20 +88,6 @@
 	{
       "type": "Feature",
       "properties": {
-	  "Name": "GAD Group",
-	  "Description":""
-	  },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-			-88.09659413742644,
-			41.689527287322925
-        ]
-      }
-    },
-	{
-      "type": "Feature",
-      "properties": {
 	  "Name": "PACE Engineers",
 	  "Description":"Implemented GIS at several water and sewer utility districts including the development of custom applications in support of asset inventory with GPS, development of asset management systems using ESRI software, integration between legacy database systems and GIS, and creation of network models. Implementation of GIS based maintenance management systems."
 	  },

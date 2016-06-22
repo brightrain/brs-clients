@@ -74,14 +74,14 @@
 	{
       "type": "Feature",
       "properties": {
-	  "Name": "Infrastructure Technologies",
-	  "Description":"Development of several commercial ArcMap extension products that extend IT pipe inspection software to integrate fully with GIS. These products are being developed using Visual Basic.Net."
+	  "Name": "Logan Simpson Design",
+	  "Description":"Development of a web based transportation modeling application used for transportation planning for BLM and USFS"
 	  },
       "geometry": {
         "type": "Point",
         "coordinates": [
-			-106.61610932123618,
-			35.13839931509316 
+			-105.077234,
+			40.587761 
         ]
       }
     },

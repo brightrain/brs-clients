@@ -1,1 +1,215 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","name":"EPA","date":2012},"geometry":{"type":"Point","coordinates":[-77.029,38.894]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","name":"Seattle Dept of Transportation","date":2008},"geometry":{"type":"Point","coordinates":[-122.33,47.605]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","name":"ERD","date":2013},"geometry":{"type":"Point","coordinates":[-73.972,40.75016]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","name":"Map Our Borders","date":2018},"geometry":{"type":"Point","coordinates":[-74.43263053894043,40.4841678668176]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","name":"SolSpec","date":2017},"geometry":{"type":"Point","coordinates":[-105.13315200805663,39.712782575443846]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","name":"GAD","date":2012},"geometry":{"type":"Point","coordinates":[-88.06846618652344,41.69893580786747]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","name":"Antares Group","date":2012},"geometry":{"type":"Point","coordinates":[-78.86900424957275,38.448883501649156]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","name":"DAHP","date":2014},"geometry":{"type":"Point","coordinates":[-122.90089845657349,47.03806175493953]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","name":"Sedro Woolley","date":2009},"geometry":{"type":"Point","coordinates":[-122.23865032196044,48.50352612546976]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","name":"Midway","date":2003},"geometry":{"type":"Point","coordinates":[-122.29454755783081,47.386670097525545]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","name":"Coal Creek","date":2005},"geometry":{"type":"Point","coordinates":[-122.16230392456053,47.53767367660686]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","name":"Colorado IT","date":2019},"geometry":{"type":"Point","coordinates":[-104.97923612594603,39.74501216856731]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","name":"HCCC","date":2019},"geometry":{"type":"Point","coordinates":[-122.63651847839354,47.7234186473552]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","name":"CSU","date":2014},"geometry":{"type":"Point","coordinates":[-105.08077383041382,40.576184349465805]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","name":"SCL","date":2014},"geometry":{"type":"Point","coordinates":[-122.33149230480194,47.57124914627172]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EPA",
+        "date": 2012
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.029,
+          38.894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seattle Dept of Transportation",
+        "date": 2008
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33,
+          47.605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ERD",
+        "date": 2013
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.972,
+          40.75016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Map Our Borders",
+        "date": 2018
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.43263053894043,
+          40.4841678668176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SolSpec",
+        "date": 2017
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.13315200805663,
+          39.712782575443846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GAD",
+        "date": 2012
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.06846618652344,
+          41.69893580786747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Antares Group",
+        "date": 2012
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.86900424957275,
+          38.448883501649156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DAHP",
+        "date": 2014
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90089845657349,
+          47.03806175493953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sedro Woolley",
+        "date": 2009
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.23865032196044,
+          48.50352612546976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Midway",
+        "date": 2003
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29454755783081,
+          47.386670097525545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coal Creek",
+        "date": 2005
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.16230392456053,
+          47.53767367660686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colorado IT",
+        "date": 2019
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.97923612594603,
+          39.74501216856731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HCCC",
+        "date": 2019
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.63651847839354,
+          47.7234186473552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CSU",
+        "date": 2014
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.08077383041382,
+          40.576184349465805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SCL",
+        "date": 2014
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33149230480194,
+          47.57124914627172
+        ]
+      }
+    }
+  ]
+}

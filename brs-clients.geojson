@@ -10,20 +10,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "HCCC",
-        "date": 2019
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.63905,
-          47.72482
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "EPA",
         "date": 2012
       },
